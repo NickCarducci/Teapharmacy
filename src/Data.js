@@ -215,7 +215,7 @@ class Data extends React.Component {
                     stroke={stroke(a)}
                     fill="transparent"
                     strokeWidth={2}
-                    key={i}
+                    key={a + i}
                   />
                 );
               })
@@ -230,7 +230,9 @@ class Data extends React.Component {
         >
           {drugs.map((x) => {
             return (
-              <div style={{ padding: "4px 10px", color: stroke(x) }}>{x}</div>
+              <div key={x} style={{ padding: "4px 10px", color: stroke(x) }}>
+                {x}
+              </div>
             );
           })}
         </div>
