@@ -40,6 +40,12 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        “A ‘psych’ test to payout depending on if the cause is one thing or the
+        other,” is on insane grounds instead of logic and admission, or their
+        hypocrisy. Major racketeering for conflict of interest, the
+        diagnostician being paid by positive result, or the wrong field at
+        least.
+        <br />
         'Percocet adderal oxy cocaine heroine 40% fentanyl from chosen or all
         ports,' Derek maltz. It makes it “stronger,” 'any amount can kill'
         <br />
