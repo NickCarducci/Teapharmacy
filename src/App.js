@@ -40,6 +40,10 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        Mr Chris Magnus: “they were checking for illegal money, drugs &
+        firearms.” “they were checking for illegal guns, money & drugs.”
+        <br />
+        <br />
         “A ‘psych’ test to payout depending on if the cause is one thing or the
         other,” is on insane grounds instead of logic and admission, or their
         hypocrisy. Major racketeering for conflict of interest, the
