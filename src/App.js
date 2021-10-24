@@ -40,6 +40,15 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        38% is not "broadly popular."
+        <br />
+        "coverage" is not non-concurrentable schedules of doctor-hours and
+        outlays instead of invoices as theft, equity for investment bank only
+        <br />
+        "free" is not debt nor tax, expecially during concurrent deficit
+        spending laundered thru, gentrified educational-resources for useless
+        price-inelasticity and government bond-laundering profits
+        <br />
         "paid family leave" is just trust building & gerontocracy, allow them to
         fire them without covid fraud & the bid-price to be met
         <br />
