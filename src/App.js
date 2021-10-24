@@ -40,6 +40,11 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        Infection from human to human is a lie, there is no taxonomy for virus
+        except bacteria and cell byproduct or mitosis of already-
+        <a href="https://froth.app">infected-cells</a>
+        <br />
+        <br />
         If Ana Guttierez was a male would he be in jail?
         <br />
         <br />
