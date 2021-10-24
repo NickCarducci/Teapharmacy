@@ -40,6 +40,12 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        "The virus has only been with us 22 months, it is a surprise what so
+        many are infected without symptoms," says NIH Francis director it's the
+        first time you're testing asymptomatically self-harming, fully-capable
+        retard
+        <br />
+        <br />
         There are more people on the bid...
         <br />
         "More treat than trick, right now," Acosta, CNN segment (Christine
