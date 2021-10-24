@@ -40,6 +40,8 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        You don't get shit jigger, Mondere Jones
+        <br />
         38% is not "broadly popular."
         <br />
         "coverage" is not non-concurrentable schedules of doctor-hours and
