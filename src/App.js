@@ -40,6 +40,28 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        "paid family leave" is just trust building & gerontocracy, allow them to
+        fire them without covid fraud & the bid-price to be met
+        <br />
+        <br />
+        Oblivious to the actual magnet-data tech, "Republicans tried to steal
+        the election!" marie cardona allison stewart, CNN. Bipartisans
+        fraudulently applied honor-system-signatures on excess deaths less than
+        expected from population growth alone. Rank choice for all those scared
+        of party-split and third-party plural-majority. Told people to stay home
+        and extrapolated unshuffled "random" voters like they are identical
+        coins called of sorted mail & during the election
+        <br />
+        <br />
+        Registering eligible voters into detest voters
+        <br />
+        <br />
+        10% of independents are non-partisan (not-swing); that is only among 88%
+        eligible voters, who register && don't vote. nj doesn't vote a lot more,
+        by 26% non-voting registered voters. other states do not register
+        detractors automatically
+        <br />
+        <br />
         "As a steward of tax-payer money, I wouldn't want to do anything but be
         honest," tax-payers aren't paying, and neither are our children, savers'
         are - through debt-inelasticity and laundered accrual or share-split,
