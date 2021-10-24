@@ -40,6 +40,12 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        There are more people on the bid...
+        <br />
+        "More treat than trick, right now," Acosta, CNN segment (Christine
+        Romans)
+        <br />
+        <br />
         Covid is crushed,"&nbsp;
         <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
           antibodies
