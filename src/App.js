@@ -40,6 +40,9 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        "America is the greatest country in the world," not saying much
+        <br />
+        <br />
         In nj they will kick you off jury duty if you are "against invoices as
         income" and make a deal to claim you were disobedient to get out of
         pharma cop jail (they still have my nugg)
