@@ -40,6 +40,13 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        "As a steward of tax-payer money, I wouldn't want to do anything but be
+        honest," tax-payers aren't paying, and neither are our children, savers'
+        are - through debt-inelasticity and laundered accrual or share-split,
+        purposefully-impossible as 1.1*currencyComponentOfM1/yr = gdp without
+        bonds normally when $4t/yr is normal federal spending
+        <br />
+        <br />
         "The virus has only been with us 22 months, it is a surprise what so
         many are infected without symptoms," says NIH Francis director it's the
         first time you're testing asymptomatically self-harming, fully-capable
