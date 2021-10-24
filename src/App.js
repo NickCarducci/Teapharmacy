@@ -40,6 +40,13 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        Covid is crushed,"&nbsp;
+        <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
+          antibodies
+        </a>
+        &nbsp;merely stop blood clots, not Infection
+        <br />
+        <br />
         hospital beds haven't risen since 1970, because accrual and
         non-concurrentable collective bargaining misappropriating funds
         <br />
@@ -69,6 +76,7 @@ class App extends React.Component {
         hypocrisy. Major racketeering for conflict of interest, the
         diagnostician being paid by positive result, or the wrong field at
         least.
+        <br />
         <br />
         'Percocet adderal oxy cocaine heroine 40% fentanyl from chosen or all
         ports,' Derek maltz. It makes it “stronger,” 'any amount can kill'
