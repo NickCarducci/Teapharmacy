@@ -40,6 +40,11 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        In nj they will kick you off jury duty if you are "against invoices as
+        income" and make a deal to claim you were disobedient to get out of
+        pharma cop jail
+        <br />
+        <br />
         Mr Chris Magnus: “they were checking for illegal money, drugs &
         firearms.” “they were checking for illegal guns, money & drugs.”
         <br />
