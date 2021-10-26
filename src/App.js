@@ -108,7 +108,8 @@ class App extends React.Component {
         <a href="https://froth.app">infected-cells</a>
         <br />
         <br />
-        If Ana Guttierez was a male would he be in jail?
+        If Ana Guttierez was a male would he be in jail? how would you ever feel
+        unsafe when common sense is wrong like the sun around the earth?
         <br />
         <br />
         "America is the greatest country in the world," not saying much
