@@ -40,6 +40,11 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        Private health plan chosen by you, not the government,” is still
+        collective bargaining fraud tiny market-commune dead weight of unsettled
+        hours paid ON CALL rather than blocked for one person is pushing it,
+        certainly not investment bank to gentrify colonialize and monopsonize
+        this industry
         <div
           style={{
             width: "200px"
