@@ -40,9 +40,88 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
-        A judge will ask you if what they have on camera is true to cop a plea,
-        disobedience for drug possession jail in nj while cvs runs rampant. It’s
-        a performance enhancer! Excess antibodies is proof
+        outlay corporate profits, today
+        <br />
+        carbon combustion binds CO2, ice cores
+        <br />
+        <div
+          style={{
+            width: "200px"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              shapeOutside: "rect()",
+              float: "left",
+              width: "100%",
+              paddingRight: "40px",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/h2dpvd1igdgzmtw/pocan.jpeg?dl=0"
+          />
+        </div>
+        <br />
+        jobs is counterproductive, democrats & republicans are slave drivers,
+        collective bargaininf FRAUD with invoices of expiring non-concurrentable
+        non-compete hours instead of forcing care to settle with what the bid
+        can manage&nbsp;
+        <a
+          href="https://foiegras.life"
+          style={{ backgroundColor: "rgb( 197, 179, 88)", color: "black" }}
+        >
+          with their own money
+        </a>
+        <h2>
+          debt inelasticity is worse than poverty inflation and bond-index-funds
+          launder on free rider mutable gentrification of intermediate
+          supply-demand r&data
+          <br />
+          open-souce-ingredient-list-license, invoices are theft not
+          gentrification, bond laundering&nbsp;
+          <span
+            role="img"
+            aria-label="consumer protection from hung-jury-permits"
+          >
+            🐿
+          </span>
+          <span role="img" aria-label="">
+            🚫
+          </span>
+          <span
+            role="img"
+            aria-label="libertarian hedgehog, white-collar-criminals"
+          >
+            🦔
+          </span>
+          consumer-protection,&nbsp;
+          <span role="img">🦫</span>
+          <br />
+          <span>20% federal-land-bartender-money-environmental-protection</span>
+          &nbsp;accounting salivating over improsoned bonded net loss profit on
+          bid-accrual, down payments to gdp 1/11. benefits is not progressive
+          but useless price-inelasticity and trust-building dead-weighht from
+          labor, cutting margins would be. outlay corporate profits, today
+        </h2>
+        <h3>
+          collective-bargaining concurrentable rolloverable is exclusively
+          not-fraudulent in insurance sector (industry is sectors - r&d,
+          non-gentrified by government nor rent-seekers deduced by implausible
+          use nor outlays of third party beneficiary
+        </h3>
+        convantry direct says life insurance is an asset than can be sold, but
+        not if everyone requires the service they paid for in comparison to
+        collective write down before the collective bargain fraud of scheduled
+        hours or outlaid-payables of without private-commune-profit &
+        trust-building for gentrification/competing with settled consumers
+        <br />
+        <br />
+        “Meds help with anxiety from this class-action-prone Guantanamo for Dc”
+        14 day vaxxed-not-even-qualifying, no history of violence
+        <br />
+        <br />A judge will ask you if what they have on camera is true to cop a
+        plea, disobedience for drug possession jail in nj while cvs runs
+        rampant. It’s a performance enhancer! Excess antibodies is proof
         drowsiness-for-recovery is working, right? There is no antigen with
         <a href="https://humanharvest.info">mRNA-sporing-grafts</a>!
         <br />
