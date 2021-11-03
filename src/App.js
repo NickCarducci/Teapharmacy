@@ -40,6 +40,11 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        Dems are saying voters votied for GOP for failing to deliver. What? It
+        is a totally different stance (except for existing business-monopsony
+        instead of consumer protection without hung-jury-permits)
+        <br />
+        <br />
         Private health plan chosen by you, not the government,” is still
         collective bargaining fraud tiny market-commune dead weight of unsettled
         hours paid ON CALL rather than blocked for one person is pushing it,
