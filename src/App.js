@@ -40,6 +40,45 @@ class App extends React.Component {
     const { width } = this.state;
     return (
       <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+        <div
+          style={{
+            width: "200px"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              shapeOutside: "rect()",
+              float: "left",
+              width: "100%",
+              paddingRight: "40px",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/7qswn4jpupv9474/Acosta.jpeg?dl=0"
+          />
+        </div>
+        <div
+          style={{
+            width: "200px"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              shapeOutside: "rect()",
+              float: "left",
+              width: "100%",
+              paddingRight: "40px",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/esu2xwc004hocpi/wolf%20blitzer.jpeg?dl=0"
+          />
+        </div>
+        Help jobs for the elderly is not helpful in making that person an
+        industrialist comparative advantage instead of childcare as a
+        specialization. Just do it yourself, don’t gentrify
+        <br />
+        <br />
         outlay corporate profits, today
         <br />
         carbon combustion binds CO2, ice cores
