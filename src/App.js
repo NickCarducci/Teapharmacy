@@ -1,10 +1,17 @@
 import React from "react";
 import Data from "./Data";
+import Cable from "./Dropwire";
 import { UAParser } from "ua-parser-js";
 import "./styles.css";
 
 class App extends React.Component {
-  state = {};
+  constructor(props) {
+    super(props);
+    this.state = {};
+    for (let i = 0; i < 220; i++) {
+      this["scrollImg" + i] = React.createRef();
+    }
+  }
   componentWillUnmount() {
     clearTimeout(this.resizeTimer);
     window.removeEventListener("resize", this.refresh);
@@ -38,8 +45,37 @@ class App extends React.Component {
 
   render() {
     const { width } = this.state;
+    const handleScollImgError = (e) => {
+      if (e.message) {
+        console.log(e.message);
+        this.setState({ serviceCancelingImages: true });
+      }
+    };
     return (
-      <div style={{ width: "calc(100% - 20px)", padding: "10px" }}>
+      <div
+        style={{
+          width: "calc(100% - 20px)",
+          padding: "10px",
+          height: "min-content"
+        }}
+      >
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1VZba8BK5B3-_MkTYNhRevjzSm6mG6yXn/preview"
+          }
+          float="right"
+          title="Wake Up America - Joni Ernst terrorizing"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 216]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Marijuana and methamphetamine pharma cops"
+        <br />
+        <br />
         Dems are saying voters votied for GOP for failing to deliver. What? It
         is a totally different stance (except for existing business-monopsony
         instead of consumer protection without hung-jury-permits)
