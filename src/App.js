@@ -103,6 +103,26 @@ class App extends React.Component {
             src="https://www.dl.dropboxusercontent.com/s/7qswn4jpupv9474/Acosta.jpeg?dl=0"
           />
         </div>
+        <br />
+        I'll be squatting on my product copyrights from Twitter discrimination
+        without payment or nuclear-reciprocation-dilemma as vaccination/mask is
+        with fda closed-source-licensure before 11/12 jury-permit, -conviction
+        that&nbsp;
+        <a href="https://www.pfizer.com/news/hot-topics/viral_vs_bacterial_pneumonia_understanding_the_difference">
+          bacteria & virus disease aren't of the same source
+        </a>
+        , being such that the diagnosis is admitedly differentiated by severity
+        of the same symptoms,&nbsp;
+        <a href="https://wyss.harvard.edu/news/the-secret-life-of-bacteria-revealed/">
+          acute to boot
+        </a>
+        .
+        <br />
+        <br />
+        "rambling about gas prices," -Wolf Blitzer, livlihood false bid pools is
+        a defensive-threat
+        <br />
+        <br />
         <div
           style={{
             width: "200px"
