@@ -59,6 +59,33 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        Migrants illegally over the border," Democratic Strategist
+        <br />
+        <br />
+        <Cable
+          style={{
+            width: "100%",
+            maxWidth: "700px",
+            height: "420px",
+            maxHeight: "30vw"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1G81qfB0N7-aPSNXtKBde8TPanh7GY7-e/preview"
+          }
+          float="left"
+          title="Wake Up America - Joni Ernst terrorizing"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 2]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <a href="https://humanharvest.info">
+          every working-age-landlord/lender-work-deficit american
+        </a>
+        &nbsp;a lethal dose because fentanyl is 100x efficient per gram
         <Cable
           onError={handleScollImgError}
           src={
@@ -67,9 +94,9 @@ class App extends React.Component {
               : "https://drive.google.com/file/d/1VZba8BK5B3-_MkTYNhRevjzSm6mG6yXn/preview"
           }
           float="right"
-          title="Wake Up America - Joni Ernst terrorizing"
+          title="National Report - drug busting and haitian wife harvesting at the border by the feds"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 216]}
+          fwd={this["scrollImg" + 1]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
