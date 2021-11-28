@@ -59,6 +59,9 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        “Alcohol deaths more than all other deaths, combined,” Alex GBNews
+        <br />
+        <br />
         Migrants illegally over the border," Democratic Strategist
         <br />
         <br />
