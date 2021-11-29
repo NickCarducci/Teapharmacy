@@ -59,8 +59,9 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
-        “[Only hate on what your scared of bro, and I’m freaking out],” open
-        book jack dorsey (sideways cap & joint photoshop)
+        “[Only&nbsp;<a href="https://vaults.biz/#:~:text=Universal">hate</a>
+        &nbsp;on what your scared of bro, and I’m freaking out],” open book jack
+        dorsey (sideways cap & joint photoshop)
         <br />
         <Cable
           style={{
