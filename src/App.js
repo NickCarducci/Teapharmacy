@@ -68,6 +68,32 @@ class App extends React.Component {
             backgroundColor: "rgb(255,120,160)"
           }}
         >
+          <Cable
+            style={{ width: "300px", height: "110px" }}
+            onError={handleScollImgError}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.youtube.com/embed/m-CwPBcrMYQ"
+            }
+            float="left"
+            title="Rudy Giuliani on T2T 77WABC - bacteria is cause"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 16]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <a href="https://www.pfizer.com/news/hot-topics/viral_vs_bacterial_pneumonia_understanding_the_difference">
+            bacterial
+          </a>
+          -infection
+          <br />
+          <br />
+          virus causes bloodclots that antibodies do stop, but the virus only
+          spreads by mitosis, not insemination. prevalence doesn't make
+          transmission necessarily and in this case it is artifact not not
+          necessary byproduct
+          <br />
           <h2>
             masks are for open body surgery, not capturing dead-cell-debris from
             floating up, has no taxonomy like protologists
