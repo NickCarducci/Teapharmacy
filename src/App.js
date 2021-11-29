@@ -128,6 +128,20 @@ class App extends React.Component {
           just an artifact of little importance, necessity nor sufficiency
           <br />
           <br />
+          All Chris Salcedo does is slander repo-cycle Marxism against
+          market-communism by describing socialism as free rider tax 40%, debt
+          spending 40%, debt-service 10-40% fed-state, and he has the gaul to
+          say it is market-price, based on delusional and false bid pool
+          expiring premium coverage capacity, collective bargain fraud by
+          insurance, and hypocrisy in private, being 60/40 wall st/gov new debt,
+          $821/day/person $300k/year/person, starting at that rate because of
+          Trump and ppp existing business trust-building, waste and
+          lender-/landlord-work-deficit.
+          <h2>
+            There are too many old people per working age, drop dead! or stop
+            being nationalistic fucking retards
+          </h2>
+          <br />
           <Cable
             style={{ width: "300px", height: "110px" }}
             onError={handleScollImgError}
