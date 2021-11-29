@@ -59,6 +59,7 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        free rider mutable tax, debt spending and debt servicing
         <div
           style={{
             borderRadius: "15px",
@@ -86,7 +87,7 @@ class App extends React.Component {
                 : "https://drive.google.com/file/d/183NDiwWG_XGQhi46kEnVtlv6_m6xYy0p/preview"
             }
             float="right"
-            title=""
+            title="Eric Bolling (Newsmax) - Peter Navarro on Wuhan gain-of-function efforts"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + 7]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -104,7 +105,7 @@ class App extends React.Component {
                 : "https://drive.google.com/file/d/1uwwsJJFxOrZdNVnpoaSxNiIHmXGwn5C4/preview"
             }
             float="left"
-            title="John Bachmannn Show - Border cartel debt/drugs licensing reports"
+            title="Eric Bolling (Newsmax) - pharma bank accounts & donations to Biden $8m, Sanders $1m"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + 9]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
