@@ -59,6 +59,52 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1VQIN-Ops4V8NF9ZkSS-Bg0buBC_qqbgl/preview"
+          }
+          float="right"
+          title="John Bachmannn Show - Border cartel debt/drugs licensing reports"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 7]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Settle third party beneficiary power into a bid met by the ask for
+        currency concurrentable market-depositary-certificates
+        <br />
+        <br />
+        “Profits are fine because they helped make the vaccine,” any withheld
+        from personal accounts is collective escrow but not bargain for
+        intermediate-durable-good-material-and-labor is not settled
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1I0WMeo74XXEjoxP_PKZmkxkBZWnQgWzs/preview"
+          }
+          float="left"
+          title="American Agenda (Newsmax) - Dr Van Dam"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 7]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Don’t trust doctors whom saveface after a century of old-science and
+        have income from invoiced-ask capacity by false bid
+        pools/expiring-insurance
+        <br />
+        <br />
+        stop saying I am underestimating effect of virus that isn't even an
+        effecting-cause but a caused-effect, and you aren't counting 75+ 1.2m/yr
+        2015-. faggot tool, drop dead
+        <br />
+        <br />
         “[Only&nbsp;<a href="https://vaults.biz/#:~:text=Universal">hate</a>
         &nbsp;on what your scared of bro, and I’m freaking out],” open book jack
         dorsey (sideways cap & joint photoshop)
@@ -76,7 +122,7 @@ class App extends React.Component {
           float="right"
           title="coors light"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 3]}
+          fwd={this["scrollImg" + 6]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -93,7 +139,7 @@ class App extends React.Component {
           float="left"
           title="chipmonk"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 3]}
+          fwd={this["scrollImg" + 5]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -110,7 +156,7 @@ class App extends React.Component {
           float="left"
           title="coors light"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 3]}
+          fwd={this["scrollImg" + 4]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
