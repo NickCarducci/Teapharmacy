@@ -74,9 +74,29 @@ class App extends React.Component {
             src={
               this.state.iosNoPhoto
                 ? ""
-                : "https://drive.google.com/file/d/11p9RzcEmDjkrG2PGG6FTNkcscJt0C0k4/preview"
+                : "https://drive.google.com/file/d/1cOeGOKLrvg3bOyCrxquO7PE9JL4xgEv2/preview"
             }
             float="right"
+            title="Chris Salcedo (Newsmax) - Marxist slander (strawmanning anti-repo-cycle)"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 20]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          Get someone to cut out your tongue!
+          <br />
+          <br />
+          Another pro vaxx, antimandate, article 4 denier,
+          <br />
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/11p9RzcEmDjkrG2PGG6FTNkcscJt0C0k4/preview"
+            }
+            float="left"
             title="Chris Salcedo (Newsmax) - Marxist slander (strawmanning anti-repo-cycle)"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + 19]}
