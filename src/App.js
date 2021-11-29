@@ -59,6 +59,20 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        virus is dead-excrement,&nbsp;
+        <a href="https://wyss.harvard.edu/news/the-secret-life-of-bacteria-revealed/">
+          not
+        </a>
+        &nbsp;an attacker.&nbsp;
+        <a href="https://www.pfizer.com/news/hot-topics/viral_vs_bacterial_pneumonia_understanding_the_difference">
+          bacteria
+        </a>
+        ,&nbsp;
+        <a href="https://theconversation.com/your-poo-is-mostly-alive-heres-whats-in-it-102848#:~:text=Bacteria%20in%20faeces%20have%20been,of%20the%20bacteria%20were%20alive.">
+          however
+        </a>
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
