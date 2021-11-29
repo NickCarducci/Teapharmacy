@@ -67,6 +67,57 @@ class App extends React.Component {
             backgroundColor: "rgb(255,120,160)"
           }}
         >
+          <h2>
+            masks are for open body surgery, not capturing dead-cell-debris from
+            floating up, has no taxonomy like protologists
+          </h2>
+          Rich McCormmick: "more mutations makes it less deadly," that is how
+          population diminishing positivity over testing and population vs
+          symptomatic-cases, forgoes assimilation with cause lest
+          byproduct-prevalence, not transmission-vivo-insemination with a
+          controlled-study (not retroactive of cases prevalent already)
+          <br />
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/183NDiwWG_XGQhi46kEnVtlv6_m6xYy0p/preview"
+            }
+            float="right"
+            title=""
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 7]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          "flood the zone with antiviral theraputics to keep them safe and
+          moderate their symptoms,"
+          <br />
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/1uwwsJJFxOrZdNVnpoaSxNiIHmXGwn5C4/preview"
+            }
+            float="left"
+            title="John Bachmannn Show - Border cartel debt/drugs licensing reports"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 9]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          “It just has to go through pharma banks first,” Eric Bolling must be
+          anti-article4 if he thinks (vaccination can suppress virus && it is a
+          killer) === true
+          <br />
+          “Funded gain of function that can make a harmless virus into a
+          killer,”
+          <br />
+          <br />
           "Surveillance of private bank accounts so they can just take money
           out," what money are you hiding? I understand transaction description
           and targets, but why for regular-business sales tax reporting?
@@ -94,7 +145,7 @@ class App extends React.Component {
           float="right"
           title="John Bachmannn Show - Border cartel debt/drugs licensing reports"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 7]}
+          fwd={this["scrollImg" + 8]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
