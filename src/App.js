@@ -60,6 +60,8 @@ class App extends React.Component {
         }}
       >
         free rider mutable tax, debt spending and debt servicing
+        <br />
+        <br />
         <div
           style={{
             borderRadius: "15px",
@@ -96,7 +98,8 @@ class App extends React.Component {
           <br />
           <h2>
             masks are for open body surgery, not capturing dead-cell-debris from
-            floating up, has no taxonomy like protologists
+            floating up, has no taxonomy like&nbps;
+            <a href="https://humanharvest.info">protistologists</a>
           </h2>
           Rich McCormmick: "more mutations makes it less deadly," that is how
           population diminishing positivity over testing and population vs
