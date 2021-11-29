@@ -59,6 +59,9 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        “[Only hate on what your scared of bro, and I’m freaking out],” open
+        book jack dorsey (sideways cap & joint photoshop)
+        <br />
         <Cable
           style={{
             width: "150px"
