@@ -59,6 +59,81 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        <Cable
+          style={{
+            width: "150px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1dvUWl0xurUsTviElqEElFG55yf-F1HaN/preview"
+          }
+          float="right"
+          title="coors light"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 3]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{
+            width: "150px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1k9hYGhE7n5bIzUowqP7rGrTVnCuniROx/preview"
+          }
+          float="left"
+          title="chipmonk"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 3]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{
+            width: "150px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1dvUWl0xurUsTviElqEElFG55yf-F1HaN/preview"
+          }
+          float="left"
+          title="coors light"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 3]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{
+            width: "150px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1k9hYGhE7n5bIzUowqP7rGrTVnCuniROx/preview"
+          }
+          float="right"
+          title="chipmonk"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 3]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "testing being widely available," skews time-series for comparative
+        analysis of the cause, since our vivo insemination proof leans more
+        towards bacterial vivo, and virion debris... or byproduct
+        <br />
+        Open-source-licensure, save the animals
+        <br />
+        <br />
         “Alcohol deaths more than all other deaths, combined,” Alex GBNews
         <br />
         <br />
