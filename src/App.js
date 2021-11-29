@@ -59,6 +59,24 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1DYrTaZRaPhqIhSV-N-RgbywJEIU3L0MZ/preview"
+          }
+          float="left"
+          title="Gov Phil Murphy - lost his mind, cartoon insemination is not transmission, age standardized excess deaths is not cohort fixed, ms matches paralytic polio, cause is proven vivo bacterial control insemination in open wound"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 21]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          “If people are vaccinated or masked, there is no need for the
+          lockdown,” Biden looks up and smiles
+        </h2>
         free rider mutable tax, debt spending and debt servicing
         <br />
         <div
