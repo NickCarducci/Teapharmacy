@@ -64,6 +64,25 @@ class App extends React.Component {
           src={
             this.state.iosNoPhoto
               ? ""
+              : "https://drive.google.com/file/d/1tz05glJPs64OS3B_V4wrDsVHKJI1Uxyv/preview"
+          }
+          float="right"
+          title="Rand Paul nearly talking about the net loss of expiring insurance (false bid pools non-rollover nor concurrentable"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 22]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        We have a financial incentive to not use the new vaccine, because we
+        have to use the ghost-vaccines. We need to target-margin-permit with
+        consumer surrogate
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
               : "https://drive.google.com/file/d/1DYrTaZRaPhqIhSV-N-RgbywJEIU3L0MZ/preview"
           }
           float="left"
