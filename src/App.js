@@ -61,7 +61,6 @@ class App extends React.Component {
       >
         free rider mutable tax, debt spending and debt servicing
         <br />
-        <br />
         <div
           style={{
             borderRadius: "15px",
@@ -70,6 +69,65 @@ class App extends React.Component {
             backgroundColor: "rgb(255,120,160)"
           }}
         >
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/11p9RzcEmDjkrG2PGG6FTNkcscJt0C0k4/preview"
+            }
+            float="right"
+            title="Chris Salcedo (Newsmax) - Marxist slander (strawmanning anti-repo-cycle)"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 19]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          “Give it to us straight!” The doctor asks to be taught by the &nbsp;
+          <a href="https://www.census.gov/library/stories/2017/10/aging-boomers-deaths.html">
+            government
+          </a>
+          . “It is inappropriate,” he says, remarking on his own ignorance &
+          license-saveFace
+          <br />
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/1JRwozo36WkhJY4QY1kme6ypNGmWDMr79/preview"
+            }
+            float="left"
+            title="Chris Salcedo (Newsmax) - Marxist slander (strawmanning anti-repo-cycle)"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 18]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          Prevalence does not make virulence!
+          <br />
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/1zl4fmIvSneE2HLwq96Yomu96D-hfsplY/preview"
+            }
+            float="right"
+            title="Chris Salcedo (Newsmax) - Marxist slander (strawmanning anti-repo-cycle)"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 17]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          The right and left think this pandemic isn’t because age-standardized
+          excess deaths doesn’t account for cohort size, and
+          byproduct-prevalence-of-virus is vivo-inseminative-cause instead of
+          just an artifact of little importance, necessity nor sufficiency
+          <br />
+          <br />
           <Cable
             style={{ width: "300px", height: "110px" }}
             onError={handleScollImgError}
@@ -98,8 +156,10 @@ class App extends React.Component {
           <br />
           <h2>
             masks are for open body surgery, not capturing dead-cell-debris from
-            floating up, has no taxonomy like&nbps;
-            <a href="https://humanharvest.info">protistologists</a>
+            floating up, has no taxonomy like&nbsp;
+            <a href="https://humanharvest.info#:~:text=doctors'">
+              protistologists
+            </a>
           </h2>
           Rich McCormmick: "more mutations makes it less deadly," that is how
           population diminishing positivity over testing and population vs
