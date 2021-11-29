@@ -59,6 +59,31 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        <div
+          style={{
+            borderRadius: "15px",
+            margin: "10px",
+            padding: "10px",
+            backgroundColor: "rgb(255,120,160)"
+          }}
+        >
+          "Surveillance of private bank accounts so they can just take money
+          out," what money are you hiding? I understand transaction description
+          and targets, but why for regular-business sales tax reporting?
+          <br />
+          <br />
+          "Socialism is philosophy of failure and equal spread of misery,"
+          <br />
+          Rudy Giuliani: “This could give every kid of pfizer to college for 40
+          years.” It is&nbsp;
+          <a href="https://micro-theory.com">useless-price-inelasticity</a>
+          &nbsp;because a marginal-consumer is displaced…
+          <br />
+          “If people are panicking you charge $4k even if it costs $20 to make,
+          and even better if the government gives it to you for free, we don’t
+          have to pay for anything anymore, everything will be free, but the
+          government will choose what you can buy,”
+        </div>
         <Cable
           onError={handleScollImgError}
           src={
