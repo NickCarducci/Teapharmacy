@@ -59,6 +59,14 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        'free' as in doctors aren't paid? or are you laundering false bid pools
+        to them
+        <br />
+        <br />
+        <h2>
+          If virus is dead and requires cell, is virus an evolutionary trait or
+          does it only come out
+        </h2>
         virus is dead-excrement,&nbsp;
         <a href="https://wyss.harvard.edu/news/the-secret-life-of-bacteria-revealed/">
           not
@@ -781,7 +789,7 @@ class App extends React.Component {
         ></iframe>
         Amphetamines
         <br />
-        ￼<br />
+        <br />
         Lot’s to read! Gotta concentrate, le confidont. High default usage isn’t
         correlative you’re actually reading LESS accidents per marijuana’d voter
       </div>
