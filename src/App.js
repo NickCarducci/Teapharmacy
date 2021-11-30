@@ -59,6 +59,9 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        the left and right think writing for corporate profits isn't as much of
+        a waste as pro bono
+        <br />
         {/*where the testing comes from, when first test*/}
         <Cable
           style={{ width: "300px", height: "110px" }}
