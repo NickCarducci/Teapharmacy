@@ -59,9 +59,29 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        {/*where the testing comes from, when first test*/}
+        <Cable
+          style={{ width: "300px", height: "110px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/QzTexeCJRRk"
+          }
+          float="left"
+          title="RI Senator thanking for returns from share-split and reappropriation of labor equity in dollar-parks"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 23]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <a href="https://30under5.us">
+          implausible landlord use cap 5 units or 30 days
+        </a>
+        &nbsp;instead
+        <br />
         'free' as in doctors aren't paid? or are you laundering false bid pools
         to them
-        <br />
         <br />
         <h2>
           If virus is dead and requires cell, is virus an evolutionary trait or
