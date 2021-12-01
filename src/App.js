@@ -59,6 +59,53 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        <h2>Net loss exports? depends on if Investment is (+)</h2>
+        IP-isolated comparative advantage projects over corporate profits,
+        prices and hours is the very opposite of productivity, retards (you
+        know, tech advancement). New/net exports of durable goods, being
+        perfectly in public parks, and such as a depositary of maintainence-less
+        public parks, makes all service and material exporting over dollars a
+        gain, except for copy- or non-consumer-surrogate-utility-discovery
+        business-rights counted as "investment," but when corporate outlays
+        first, in my book, is "gentrification"
+        <br />
+        <br />
+        65+ half continuing claims, 1.2m/yr+ 75+ 2015-, 55+/millennials rental
+        income 20x/person
+        <h2>
+          how does $4t/yr fed spending 2010-2020, 40% debt spending, 10%
+          debt-service, 60% free rider mutable 1/4 pensions 1/4 premiums 1/4
+          pentagon expiring claims and invoices with third party beneficiary law
+          malfeasance, counterfeit in contract and loitering by laundering,
+          lender work deficit of labor as demand exclusively, akin to landlord
+          work deficit over 5 units or 30 days per person, so hotels can stay in
+          business, rather than controlling price, so value is attributed
+          appropriately and not reappropriated laborequity.org by public nor
+          private, private/public being 60/40 new debt $300k/year/person
+          $821/day/person before 3/2020, loitering on bartender-money bid. To
+          say it would take 44 years to pay back
+          1.1currencyComponentOfM1Checking/yr=gdp without bonds and 4400% debt
+          to checking would even be a lie for income paying all principal
+          performed ("debt service," "bond-laundering")
+        </h2>
+        poverty alleviation is the best friend of poorness/equality when
+        measuring bonds and homes in inflation, to which now neither does gini
+        inequality nor inflation. It's like it only exists for withsrawal.
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/4hrMuZEGGmk"
+          }
+          float="right"
+          title="Dick Morris (77WABC) - intent for accounting home sales and bond last trade outside of inflation and gini, but inside net asset value"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 24]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>
           assigning my mom as my disability payee because she has collateralized
           debts, that loitering borrower bitch
