@@ -59,8 +59,19 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        “Have to bring the people on the minority side along the way, like
+        Ronald Reagan who did a great job in bringing people together, …you
+        don’t have to sacrifice your principles. If you walk the conservative
+        plank, you’ll be in power for a very long time.” Jason Chaffitz
+        <br />
+        <br />
         the left and right think writing for corporate profits isn't as much of
-        a waste as pro bono
+        a waste as pro bono, isolating design and discovery for the individual
+        laborer and non-maintainence-costable utility lest target-margin
+        contractors without, for instance, unbridaled state-victimization torts
+        without expiring claims-insurance non-concurrentable nor rollover
+        collective fraudulent bargaining, broadband network fees nor bridge
+        tolls
         <br />
         {/*where the testing comes from, when first test*/}
         <Cable
