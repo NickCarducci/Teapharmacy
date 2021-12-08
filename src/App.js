@@ -59,6 +59,50 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "right",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://saverparty.xyz"
+        >
+          saverparty.xyz
+        </a>
+        <span role="img" aria-label="squirrel bottom-left white-circle pill">
+          🐿↙️⚪️💊
+        </span>
+        open-source-licensure, save the animals!
+        <h2>Piss off, monopsony or suicide</h2>“Hitting the dealers,” “fair
+        enough,”
+        <br />
+        Right after “A place of great learning,” humble
+        <br />
+        "The Senior Circuit,"
+        <br />
+        “Recognize cuttlefish as experiencing pain, distress or harm,” too.
+        Shame
+        <br />
+        <Cable
+          style={{ height: "250px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://drive.google.com/file/d/11FBFIJCr02s0uXgFNwGDwBMAKchsI16e/preview"
+          }
+          float="left"
+          title="GBNews - Amanda stern hardless on the war on drugs"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 25]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>Net loss exports? depends on if Investment is (+)</h2>
         IP-isolated comparative advantage projects over corporate profits,
         prices and hours is the very opposite of productivity, retards (you
