@@ -77,7 +77,7 @@ class App extends React.Component {
         <span role="img" aria-label="squirrel bottom-left white-circle pill">
           🐿↙️⚪️💊
         </span>
-        open-source-licensure, save the animals!
+        open-source-licensure, save the animals! for (colonialization)
         <h2>Piss off, monopsony or suicide</h2>“Hitting the dealers,” “fair
         enough,”
         <br />
