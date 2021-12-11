@@ -8,6 +8,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {};
+    this.drugs = React.createRef();
     for (let i = 0; i < 220; i++) {
       this["scrollImg" + i] = React.createRef();
     }
@@ -43,6 +44,14 @@ class App extends React.Component {
     window.addEventListener("resize", this.refresh);
   };
 
+  componentDidUpdate = (prevProps) => {
+    const { pathname } = this.props;
+    if (pathname !== prevProps.pathname) {
+      if (pathname === "/drugs") {
+        window.scroll(0, this.drugs.current.offsetTop);
+      }
+    }
+  };
   render() {
     const { width } = this.state;
     const handleScollImgError = (e) => {
@@ -898,6 +907,7 @@ class App extends React.Component {
         and hung-jury-permits of science trust-building!
         <br />
         <br />
+        <hr ref={this.drugs} />
         {width && <Data width={width} />}
         <br />
         <br />
