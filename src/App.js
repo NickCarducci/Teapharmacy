@@ -930,7 +930,8 @@ class App extends React.Component {
         <br />
         <br />
         Lot’s to read! Gotta concentrate, le confidont. High default usage isn’t
-        correlative you’re actually reading LESS accidents per marijuana’d voter
+        correlative you’re actually reading LESS accidents per&nbsp;
+        <a href="https://carducci.us/basis">marijuana’d voter</a>
       </div>
     );
   }
