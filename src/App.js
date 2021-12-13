@@ -87,6 +87,13 @@ class App extends React.Component {
           🐿↙️⚪️💊
         </span>
         open-source-licensure, save the animals! for (colonialization)
+        <br />
+        Star-Ledger (12/2/2021): "Newark mayor: Court system must do a better
+        job of monitoring teens after their arrest | Opinion
+        https://trib.al/WVhXiaf" convict intranet, login.gov malfeasance. Not
+        those who have remediated already. I will be giving them on device end
+        to end encryption and tamper proof grid dns.
+        <br />
         <h2>Piss off, monopsony or suicide</h2>“Hitting the dealers,” “fair
         enough,”
         <br />
