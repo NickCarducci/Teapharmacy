@@ -89,11 +89,28 @@ class App extends React.Component {
         open-source-licensure, save the animals! for (colonialization)
         <br />
         Star-Ledger (12/2/2021): "Newark mayor: Court system must do a better
-        job of monitoring teens after their arrest | Opinion
-        https://trib.al/WVhXiaf" convict intranet, login.gov malfeasance. Not
-        those who have remediated already. I will be giving them on device end
-        to end encryption and tamper proof grid dns.
+        job of monitoring teens after their arrest |&nbsp;
+        <a href="https://trib.al/WVhXiaf">Opinion</a>&nbsp; " convict intranet,
+        login.gov malfeasance. Not those who have remediated already. I will be
+        giving them on device end to end encryption and tamper proof grid dns.
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1R3aUK0jjIX5bwr2zfRFnApCKFZ1Jq_FN/preview"
+          }
+          float="right"
+          title="John Bachmann Now (Newsmax) - Mom behind 'parental advisory' mandate for pornography in public library"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 26]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Parental advisory,” “explicit,” or anything similar for curses -
+        “graphic nudity,” pornographic exclusively and “graphic-content,” for
+        gore. #FreeBritney
         <h2>Piss off, monopsony or suicide</h2>“Hitting the dealers,” “fair
         enough,”
         <br />
