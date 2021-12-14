@@ -158,9 +158,9 @@ class App extends React.Component {
           work deficit over 5 units or 30 days per person, so hotels can stay in
           business, rather than controlling price, so value is attributed
           appropriately and not reappropriated laborequity.org by public nor
-          private, private/public being 60/40 new debt $300k/year/person
-          $821/day/person before 3/2020, loitering on bartender-money bid. To
-          say it would take 44 years to pay back
+          private, private/public being 60/40 new debt $12k/year/person
+          $8/day/person before 3/2020, loitering on bartender-money bid. To say
+          it would take 44 years to pay back
           1.1currencyComponentOfM1Checking/yr=gdp without bonds and 4400% debt
           to checking would even be a lie for income paying all principal
           performed ("debt service," "bond-laundering")
@@ -375,8 +375,8 @@ class App extends React.Component {
           say it is market-price, based on delusional and false bid pool
           expiring premium coverage capacity, collective bargain fraud by
           insurance, and hypocrisy in private, being 60/40 wall st/gov new debt,
-          $821/day/person $300k/year/person, starting at that rate because of
-          Trump and ppp existing business trust-building, waste and
+          $8/day/person $12k/year/person, starting at that rate because of Trump
+          and ppp existing business trust-building, waste and
           lender-/landlord-work-deficit.
           <h2>
             There are too many old people per working age, drop dead! or stop
