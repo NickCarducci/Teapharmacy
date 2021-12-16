@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "Teapharmacy.party a 2052.live product",
   "keywords": [
-    "react",
-    "starter"
+    "drug war",
+    "pharmacies",
+    "greed",
+    "economics",
+    "consumer rights",
+    "currency",
+    "banking",
+    "depositaries",
+    "vaults"
   ],
   "main": "src/index.js",
   "dependencies": {
@@ -24,10 +31,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
