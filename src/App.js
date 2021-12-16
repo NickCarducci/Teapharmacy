@@ -100,9 +100,62 @@ class App extends React.Component {
         >
           nsc
         </a>
+        "...that Biden would be here for years and years to come. the cleanup
+        and care, FOR US." Andy Beshear. "We want more cash, and front-run water
+        and blankets, I'm closing off all non-government contractors from trade,
+        for we already sold out to foreign debt, public and private."
+        <br />
+        <br />
+        "[This voting rights bill] ...you have to go through civil rights agency
+        to change voting laws now, merick garland's mom and dad, ...eric holder
+        sicophants. the most anti-wester, american, anti-happy sue-happy against
+        republicans. Wildly unconstitutional. Brilliant sinister and secret
+        outdoor plan to undermine elctions, same in the national schoolboard
+        association."
+        <br />
+        "bail-reform in favor of interpol extradition"&nbsp;
+        <a href="https://truncatedsalestax.com/state-victimization">
+          tort reform
+        </a>
+        , bail reform (without evidence nor reason for login.gov malfeasance),
+        voter reform means much different things (same day registry,&nbsp;
+        <a href="https://thumbprint.us/voting">with photo</a>).
+        <br />
         <span role="img" aria-label="squirrel bottom-left white-circle pill">
           🐿↙️⚪️💊
         </span>
+        &nbsp;<a href="https://teapharmacy.party/drugs">drugs</a>
+        &nbsp;open-source ingredient-list, save the animals&nbsp;
+        <a href="https://humanharvest.info/polio">polio</a>&nbsp;
+        <a href="https://micro-theory.com">micro</a>&nbsp;
+        <a href="https://www.quora.com/profile/Nick-Carducci">racketprop</a>
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1L1caV11uXrKLUuy_Yjhoo2whzjzYL2n2/preview"
+          }
+          float="right"
+          title="John Bachmann Now (Newsmax) - Mom behind 'parental advisory' mandate for pornography in public library"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 27]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "That’s why China invested in us, they bought $1/7/26t of our public
+        debt and probably more of our $88t private debt, $12k/year/p, m2 bonds
+        $3/year/p, checking CurrencyComponentOfM1 $64/year/p.
+        <br />
+        sport non-compete non-concurrentable employment contract competing with
+        consumers (intermediate supply as labor-demand) monopsony.
+        <h2>
+          "television is still here: twitter is a different story." give me a
+          list of twitter employees, use court jury 11/12 desist, pay me to ban
+          me
+        </h2>
         I make scopebook because I live in a home-contractor household, where
         sprint material and labor unlocks timeclock, yet the consumer fraud act
         appreciates estimates as options to buy the home, a down-payment
@@ -151,6 +204,7 @@ class App extends React.Component {
         <a href="https://trib.al/WVhXiaf">Opinion</a>&nbsp; " convict intranet,
         login.gov malfeasance. Not those who have remediated already. I will be
         giving them on device end to end encryption and tamper proof grid dns.
+        <br />
         <br />
         <Cable
           onError={handleScollImgError}
