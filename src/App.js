@@ -3,6 +3,7 @@ import Data from "./Data";
 import Cable from "./Dropwire";
 import { UAParser } from "ua-parser-js";
 import "./styles.css";
+import TwitterTweetEmbed from "./TwitterTweetEmbed";
 
 class App extends React.Component {
   constructor(props) {
@@ -102,7 +103,48 @@ class App extends React.Component {
         <span role="img" aria-label="squirrel bottom-left white-circle pill">
           🐿↙️⚪️💊
         </span>
-        open-source-licensure, save the animals! for (colonialization)
+        I make scopebook because I live in a home-contractor household, where
+        sprint material and labor unlocks timeclock, yet the consumer fraud act
+        appreciates estimates as options to buy the home, a down-payment
+        implying and option of an unsettled scope-delusional, is price-fixed by
+        courts, except in gini, inflation nor poverty metrics, to schadenfraude
+        the Marxist solution of not only Islamic banking of usury but
+        <br />
+        <TwitterTweetEmbed
+          style={{ float: "left", width: "300px" }}
+          key="1433857610923532288"
+          tweetId="1433857610923532288"
+        />
+        suspension of repo-cycle morce majeure implausible deniability kept down
+        payments laundered collateral loitered by borrower from third party
+        donee beneficiary, exhibited by standing as cancelling or bailour
+        forbiddance amortization, the medium being to (cash/debt)*income every
+        year back, to match what we all would have paid and earned without debt
+        inelasticity of bid-to-ask, albeit not renumeration to account for
+        lender work deficit, hardly possible except to fix for that industry.
+        All debt "investment," can and will be replaced by 1-level-board
+        max-royalty-contracts, open-source-licensure with ingredient lists and
+        business review, and ween jailors off net loss profit bonds with
+        truncated sales tax on grocers, for sewage, police & lawsuits, free
+        rider immutable, and other non-nationalized bridge toll nor network fee
+        margin or duress targetable free rider immutable or collective
+        non-flaccid bargain non-lossdesignated by industry variant multiple of
+        11/12 jury. "why is pfizer symptom-free not put in the water?" because
+        it is beyond minimal viable product and m&d monopsony. Kilmeade
+        "conservative," at least can only spin this quote as free advertising?
+        At least take the call on my mortality projections. I called it&nbsp;
+        <a href="https://www.census.gov/library/stories/2017/10/aging-boomers-deaths.html">
+          way back in 2015
+        </a>
+        . more testing is not the all-inclusive regime than non-exclusive
+        bacterial-byproduct, what, do you think virion is first taxonomy an
+        evolutionary trait or it doesn't, in-fact, "require cell to
+        replicate?"&nbsp;
+        <a href="https://nationalsecuritycasino.com/">
+          This would not stand in jury
+        </a>
+        <br />
+        open-source-licensure, save the animals! for (colonialization).
         <br />
         Star-Ledger (12/2/2021): "Newark mayor: Court system must do a better
         job of monitoring teens after their arrest |&nbsp;
