@@ -63,6 +63,7 @@ class App extends React.Component {
     return (
       <div
         style={{
+          overflow: "hidden",
           width: "calc(100% - 20px)",
           padding: "10px",
           height: "min-content"
@@ -82,6 +83,21 @@ class App extends React.Component {
           href="https://saverparty.xyz"
         >
           saverparty.xyz
+        </a>
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "right",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://nationalsecuritycasino.com"
+        >
+          nsc
         </a>
         <span role="img" aria-label="squirrel bottom-left white-circle pill">
           🐿↙️⚪️💊
