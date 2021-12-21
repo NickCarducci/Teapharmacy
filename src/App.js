@@ -100,6 +100,10 @@ class App extends React.Component {
         >
           nsc
         </a>
+        Pharma currency no script, pay jailors by the spending of those they
+        arrest
+        <br />
+        <br />
         "...that Biden would be here for years and years to come. the cleanup
         and care, FOR US." Andy Beshear. "We want more cash, and front-run water
         and blankets, I'm closing off all non-government contractors from trade,
