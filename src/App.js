@@ -104,6 +104,34 @@ class App extends React.Component {
         arrest
         <br />
         <br />
+        NJ 101.5: "It will be the first of many in Christmas without loved ones,
+        dominated by covid 19," but you are not accounting for population
+        growth, that would make excess deaths, age-standardized, insignificant.
+        <Cable
+          style={{
+            width: "100%",
+            maxWidth: "600px",
+            height: "400px",
+            maxHeight: "50vw"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1WHKkY1z3GJD9SThb3frdc_y8eo3-8w6-/preview"
+          }
+          float="left"
+          title="National Report (Newsmax) - "
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 30]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "It really burns your brain, that is what makes this drug, meth, so
+        deadly right now."
+        <br />
+        “I’m no medical expert, I like to follow the non-fringe ones.”
+        <h2>Still making it</h2>
         "...that Biden would be here for years and years to come. the cleanup
         and care, FOR US." Andy Beshear. "We want more cash, and front-run water
         and blankets, I'm closing off all non-government contractors from trade,
@@ -126,7 +154,7 @@ class App extends React.Component {
           float="left"
           title="National Report (Newsmax) - "
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 30]}
+          fwd={this["scrollImg" + 31]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -141,7 +169,7 @@ class App extends React.Component {
           float="right"
           title="National Report (Newsmax) - "
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 29]}
+          fwd={this["scrollImg" + 30]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -165,7 +193,7 @@ class App extends React.Component {
           float="right"
           title="National Report (Newsmax) - "
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 28]}
+          fwd={this["scrollImg" + 29]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -179,6 +207,20 @@ class App extends React.Component {
         100k from the CDC
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/19tZwkYrGK-bEBTxFujbLKGhBudxFnhyT/preview"
+          }
+          float="left"
+          title="American Agenda (Newsmax) - Jaeson Jones on the border, no script pharmacy currency & human trafficking third party donee surrendered debt freedom"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 28]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         "[This voting rights bill] ...you have to go through civil rights agency
         to change voting laws now, merick garland's mom and dad, ...eric holder
         sicophants. the most anti-wester, american, anti-happy sue-happy against
