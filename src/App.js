@@ -136,7 +136,7 @@ class App extends React.Component {
         beneficiary claimant
         <br />
         Everyone wants to cancel debt, but no one wants to cancel the national
-        debt. Roads are free rider mutable, but why does expats need 40% debt
+        debt. Roads are free rider mutable, but why does ezpass need 40% debt
         service?
         <br />
         <a href="https://teapharmacy.party/drugs">37k lbs drugs</a>, 900 pounds
