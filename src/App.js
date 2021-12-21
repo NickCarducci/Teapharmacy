@@ -126,17 +126,51 @@ class App extends React.Component {
           float="left"
           title="National Report (Newsmax) - "
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 28]}
+          fwd={this["scrollImg" + 30]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ height: "260px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1zBdcytIE_qbv2tfRvEo7IGsJRKr0Kgbl/preview"
+          }
+          float="right"
+          title="National Report (Newsmax) - "
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 29]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
         Placebo car lot is overflowing. Any “long-term,” effects are eaten by
         producer. It is all short term. You don’t have to give it up, but you do
         for a trade, not spend another’s freedom making a third party donee
-        beneficiary claimant
+        beneficiary claimant.
         <br />
-        Everyone wants to cancel debt, but no one wants to cancel the national
-        debt. Roads are free rider mutable, but why does ezpass need 40% debt
+        <br />
+        "Pillows for the homeless. Lol." Homes aren't includes in gini
+        inequality, either.
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1maCIn-XcjVOGRl8NGhtMP3fbaK-AJdW6/preview"
+          }
+          float="right"
+          title="National Report (Newsmax) - "
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 28]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "Everyone wants to cancel debt, but no one wants to cancel the national
+        debt." Roads are free rider mutable, but why does ezpass need 40% debt
         service?
         <br />
         <a href="https://teapharmacy.party/drugs">37k lbs drugs</a>, 900 pounds
