@@ -107,6 +107,7 @@ class App extends React.Component {
         NJ 101.5: "It will be the first of many in Christmas without loved ones,
         dominated by covid 19," but you are not accounting for population
         growth, that would make excess deaths, age-standardized, insignificant.
+        <br />
         <Cable
           style={{
             width: "100%",
@@ -120,18 +121,17 @@ class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1WHKkY1z3GJD9SThb3frdc_y8eo3-8w6-/preview"
           }
-          float="left"
-          title="National Report (Newsmax) - "
+          float="right"
+          title="Biden (PBSNewsHour) - covid"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 30]}
+          fwd={this["scrollImg" + 32]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        "It really burns your brain, that is what makes this drug, meth, so
-        deadly right now."
-        <br />
         “I’m no medical expert, I like to follow the non-fringe ones.”
-        <h2>Still making it</h2>
+        <h2>
+          <a href="https://humanharvest.info/testing">Still making it</a>
+        </h2>
         "...that Biden would be here for years and years to come. the cleanup
         and care, FOR US." Andy Beshear. "We want more cash, and front-run water
         and blankets, I'm closing off all non-government contractors from trade,
