@@ -106,6 +106,41 @@ class App extends React.Component {
         for we already sold out to foreign debt, public and private."
         <br />
         <br />
+        <Cable
+          style={{
+            width: "100%",
+            maxWidth: "400px",
+            height: "550px",
+            maxHeight: "65vw"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/13TaR4oSPTzNakzWcWt5tk2FXbBUhcjfy/preview"
+          }
+          float="left"
+          title="National Report (Newsmax) - "
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 28]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Placebo car lot is overflowing. Any “long-term,” effects are eaten by
+        producer. It is all short term. You don’t have to give it up, but you do
+        for a trade, not spend another’s freedom making a third party donee
+        beneficiary claimant
+        <br />
+        Everyone wants to cancel debt, but no one wants to cancel the national
+        debt. Roads are free rider mutable, but why does expats need 40% debt
+        service?
+        <br />
+        <a href="https://teapharmacy.party/drugs">37k lbs drugs</a>, 900 pounds
+        fentanyl, used in accute bacterial-pneumonia
+        <br />
+        100k from the CDC
+        <br />
+        <br />
         "[This voting rights bill] ...you have to go through civil rights agency
         to change voting laws now, merick garland's mom and dad, ...eric holder
         sicophants. the most anti-wester, american, anti-happy sue-happy against
@@ -139,7 +174,7 @@ class App extends React.Component {
               : "https://drive.google.com/file/d/1L1caV11uXrKLUuy_Yjhoo2whzjzYL2n2/preview"
           }
           float="right"
-          title="John Bachmann Now (Newsmax) - Mom behind 'parental advisory' mandate for pornography in public library"
+          title="Probably Chris Salcedo (Newsmax) - Michael Knowles, 'Speechless'"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 27]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
