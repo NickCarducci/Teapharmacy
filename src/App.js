@@ -1189,6 +1189,15 @@ class App extends React.Component {
         Lot’s to read! Gotta concentrate, le confidont. High default usage isn’t
         correlative you’re actually reading LESS accidents per&nbsp;
         <a href="https://carducci.us/basis">marijuana’d voter</a>
+        <br />
+        open ingredient list &bull;{" "}
+        <a href="https://www.dea.gov/sites/default/files/2020-01/2019-NDTA-final-01-14-2020_Low_Web-DIR-007-20_2019.pdf#page=28">
+          2017 report
+        </a>{" "}
+        on fentanyl w/{" "}
+        <a href="https://www.livescience.com/59452-why-opium-is-grown-outside-us.html">
+          origin
+        </a>
       </div>
     );
   }
