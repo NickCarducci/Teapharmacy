@@ -1205,9 +1205,17 @@ class App extends React.Component {
           <a href="https://www.uspis.gov/wp-content/uploads/2021/02/USPS-Combating-Illicit-Drugs-in-the-Mail-Strategy-Document.pdf#page=15">
             Largest entry in the SWB
           </a>
-          , but as low as 2% is checked by postal parcel - open ingredient lists
-          and the right to try is implied, investment bank for science begone.
+          , but as low as{" "}
+          <a href="https://www.washingtonpost.com/investigations/2019/08/23/fentanyl-flowed-through-us-postal-service-vehicles-crossing-southern-border/">
+            2%
+          </a>{" "}
+          is checked by postal parcel - 'open ingredient lists:' the right to
+          try is implied (foreseeable impossibilities or false bid pool or
+          expiring premium investment bank beyond 1/12 vertical not
+          withstanding), investment bank for science begone.
         </h3>
+        homeless has nothing to do with CT scans, do not house them with
+        medical-pharmacy racketeering.
       </div>
     );
   }
