@@ -1215,7 +1215,9 @@ class App extends React.Component {
           withstanding), investment bank for science begone.
         </h3>
         homeless has nothing to do with CT scans, do not house them with
-        medical-pharmacy racketeering.
+        medical-pharmacy racketeering. cap rental-income BEFORE home-contractor
+        monopsony and keeping them from opportunities to leisure in art,
+        scientific contributions, chores or copy, or trade by hour, sure.
       </div>
     );
   }
