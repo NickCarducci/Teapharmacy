@@ -1198,6 +1198,16 @@ class App extends React.Component {
         <a href="https://www.livescience.com/59452-why-opium-is-grown-outside-us.html">
           origin
         </a>
+        open ingredient list, ban licensure - hung jury minimal viable product
+        duress for <a href="https://vaults.biz">voluntary Tranquility</a>
+        <br />
+        <h3>
+          <a href="https://www.uspis.gov/wp-content/uploads/2021/02/USPS-Combating-Illicit-Drugs-in-the-Mail-Strategy-Document.pdf#page=15">
+            Largest entry in the SWB
+          </a>
+          , but as low as 2% is checked by postal parcel - open ingredient lists
+          and the right to try is implied, investment bank for science begone.
+        </h3>
       </div>
     );
   }
