@@ -106,6 +106,9 @@ class App extends React.Component {
         >
           nsc
         </a>
+        Most of us are anti-NATO, once Ukraine joined, it was a provocation.
+        <br />
+        <br />
         Pharma currency no script, pay jailors by the spending of those they
         arrest
         <br />
@@ -1218,6 +1221,19 @@ class App extends React.Component {
         medical-pharmacy racketeering. cap rental-income BEFORE home-contractor
         monopsony and keeping them from opportunities to leisure in art,
         scientific contributions, chores or copy, or trade by hour, sure.
+        <h3>
+          Barring for the unforeseen parcels, the southern border is the
+          fentanyl problem. But how much is 2k-10k 2010-2013 and 2013-2017 -15k
+          deaths,
+        </h3>
+        <h2>
+          of which 5k fentanyl-including? Most of that could be in the parcels.
+          It really is fine to regulate with open ingredient lists, but
+        </h2>
+        <h1>
+          transaction-fee-based security depositary receipt begs for no
+          prescription-cost-liquidity.
+        </h1>
       </div>
     );
   }
