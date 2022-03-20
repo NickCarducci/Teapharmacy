@@ -912,7 +912,7 @@ class App extends React.Component {
               paddingRight: "40px",
               height: "auto"
             }}
-            src="https://www.dl.dropboxusercontent.com/s/7qswn4jpupv9474/Acosta.jpeg?dl=0"
+            src="https://www.dropbox.com/s/7qswn4jpupv9474/Acosta.jpeg?raw=1"
           />
         </div>
         <br />
@@ -949,7 +949,7 @@ class App extends React.Component {
               paddingRight: "40px",
               height: "auto"
             }}
-            src="https://www.dl.dropboxusercontent.com/s/esu2xwc004hocpi/wolf%20blitzer.jpeg?dl=0"
+            src="https://www.dropbox.com/s/esu2xwc004hocpi/wolf%20blitzer.jpeg?raw=1"
           />
         </div>
         Help jobs for the elderly is not helpful in making that person an
@@ -975,7 +975,7 @@ class App extends React.Component {
               paddingRight: "40px",
               height: "auto"
             }}
-            src="https://www.dl.dropboxusercontent.com/s/h2dpvd1igdgzmtw/pocan.jpeg?dl=0"
+            src="https://www.dropbox.com/s/h2dpvd1igdgzmtw/pocan.jpeg?raw=1"
           />
         </div>
         <br />
