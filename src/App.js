@@ -106,6 +106,10 @@ class App extends React.Component {
         >
           nsc
         </a>
+        cocaine is good for concentration. I will top fan once you stop
+        castrating pedos
+        <br />
+        <br />
         Most of us are anti-NATO, once Ukraine joined, it was a provocation.
         <br />
         <br />
