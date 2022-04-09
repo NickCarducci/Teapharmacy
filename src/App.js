@@ -16,10 +16,6 @@ class App extends React.Component {
       this["scrollImg" + i] = React.createRef();
     }
   }
-  componentWillUnmount() {
-    clearTimeout(this.resizeTimer);
-    window.removeEventListener("resize", this.refresh);
-  }
   refresh = (first) => {
     clearTimeout(this.check);
     const check = () => {
@@ -47,8 +43,36 @@ class App extends React.Component {
   componentDidMount = () => {
     this.refresh(true); //first
     window.addEventListener("resize", this.refresh);
+    window.addEventListener("scroll", this.handleScroll);
   };
 
+  componentWillUnmount = () => {
+    document.body.style.margin = null;
+    this.refresh(true); //first
+    clearTimeout(this.scrollTimeout);
+    clearTimeout(this.resizeTimer);
+    window.removeEventListener("resize", this.refresh);
+    window.removeEventListener("scroll", this.handleScroll);
+  };
+  handleScroll = (e) => {
+    if (!this.state.offScroll) {
+      const scrollTop = window.scrollY;
+      this.setState(
+        {
+          scrolling: true,
+          scrollTop
+        },
+        () => {
+          clearTimeout(this.scrollTimeout);
+          this.scrollTimeout = setTimeout(() => {
+            this.setState({
+              scrolling: false
+            });
+          }, 900);
+        }
+      );
+    }
+  };
   componentDidUpdate = (prevProps) => {
     const { pathname } = this.props;
     if (pathname !== prevProps.pathname) {
@@ -109,6 +133,27 @@ class App extends React.Component {
         >
           nsc
         </a>
+        "Not{space}
+        <a href="https://qr.ae/pvKwDx">cash</a>
+        {space}but bills hysterical Champaign lifestyle, Miranda Divine,
+        insurmountable for a modicum of comparable free rider mutable government
+        contracting-gentrification
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://www.youtube.com/embed/W-Vv1vysGzE"
+          }
+          float="left"
+          title="Hack4Congress FDA/USPTO/NIH for naming and open source alternative"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         cocaine is good for concentration. I will top fan once you stop
         castrating pedos. name and open source no script transaction fee
         inventory no (implausible use 5 condo/storefront) lessing nor
@@ -385,7 +430,13 @@ class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        <h2>Net loss exports? depends on if Investment is (+)</h2>
+        <h2>
+          Net loss{space}
+          <a href="https://saverparty.xyz/global">
+            {/*plundered "for all it's worth" */}exports
+          </a>
+          ? depends on if Investment is (+)
+        </h2>
         IP-isolated comparative advantage projects over corporate profits,
         prices and hours is the very opposite of productivity, retards (you
         know, tech advancement). New/net exports of durable goods, being
@@ -1255,3 +1306,4 @@ class App extends React.Component {
   }
 }
 export default App;
+
