@@ -21,8 +21,8 @@ class App extends React.Component {
     window.removeEventListener("resize", this.refresh);
   }
   refresh = (first) => {
-    clearTimeout(this.longerTimeout);
-    this.longerTimeout = setTimeout(() => {
+    clearTimeout(this.check);
+    const check = () => {
       var parser = new UAParser();
       const name = parser.getBrowser().name;
       console.log(name);
@@ -40,7 +40,9 @@ class App extends React.Component {
           ? window.screen.availHeight - 20
           : window.innerHeight
       });
-    }, 2400);
+    };
+    check();
+    this.check = setTimeout(check, 4000);
   };
   componentDidMount = () => {
     this.refresh(true); //first
@@ -69,6 +71,7 @@ class App extends React.Component {
       arrayOfnumbers.push(num);
       return num;
     };
+    const space = " ";
     return (
       <div
         style={{
@@ -1240,6 +1243,9 @@ class App extends React.Component {
           transaction-fee-based security depositary receipt begs for no
           prescription-cost-liquidity.
         </h1>
+        Women and families, credible claims of asylum,{space}
+        <a href="https://www.cbp.gov/newsroom/media-resources/stats">versus</a>
+        {space}singletons
       </div>
     );
   }
